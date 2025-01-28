@@ -1,0 +1,79 @@
+Customer Name,Contexts,Summary,Sentiment,Deal_status
+Padma,"1. hello I am exploring options for a gaming laptop are there any options
+2. why is the price higher than other competitors
+3. I need a laptop with advanced cooling features are there any other options
+4. thanks for your time but I need to check elsewhere for what I am looking for","Customer explored options for a gaming laptop, asked about price comparisons, inquired about advanced cooling features, and decided to check elsewhere for their needs.",Negative,not closed
+Aisha,"1. hi I am looking for a reliable laptop for work purposes can you help
+2. what's the battery life on the HP spectra by 360
+3. can you operate discount if I purchase it today
+4. does it come with free laptop bag or any accessories
+5. this sounds like a good deal I am happy with the specifications","Customer inquired about a reliable laptop, asked about the HP Spectra x360's battery life, requested a discount, inquired about free accessories, and decided to proceed with the purchase based on the specifications.",Positive,closed
+Rohan,"1. hello I need a laptop suitable for graphic designing what do you recommend
+2. how much RAM does the Macbook Pro have
+3. is there any EMI option for this model
+4. will I get free access to software like Adobe Photoshop with this
+5. I will think about it I am still exploring other options","Customer explored laptop options for graphic designing, asked about MacBook Pro's RAM, inquired about EMI options and free software access, and decided to consider other options.",Negative,not closed
+Priya,"1. hi I am a gamer looking for a high performance laptop what do you suggest
+2. what GPU does the Alienware m15 come with
+3. can I get a better price if I trade in my old laptop
+4. does it include an extended warranty for gaming specific issues
+5. great this has everything I need let's proceed","Customer explored high-performance laptop options, asked about the Alienware m15's GPU, inquired about trade-in pricing, requested information on extended warranty coverage, and decided to proceed with the purchase.",Positive,closed
+Arjun,"1. hi I am looking for a budget laptop for basic office work
+2. how much does the Lenovo IdeaPad 3
+3. is there a student discount available for this model
+4. does it come with pre installed Microsoft Office
+5. it's a bit over my budget I will check other options","Customer explored budget laptop options, asked about the price of the Lenovo IdeaPad 3, inquired about a student discount and Microsoft Office installation, and ultimately decided to consider other options due to budget constraints.
+",Negative,not closed
+Sneha,"1. hello I need a durable laptop for field work any recommendations
+2. is the Dell Latitude 5420 rugged and spill resistant
+3. Can you provide an insurance package for accidental damage
+4. does it have a 3 year warranty included
+5. this seems perfect for my needs I will take it","Customer inquired about a durable laptop, asked about the Dell Latitude 5420's ruggedness and spill resistance, requested an insurance package, inquired about the warranty, and decided to make a purchase.",Positive,closed
+Karan,"1. hi I am searching for a lightweight laptop for travel could you help
+2. what's the weight of Asus zenbook 14
+3. is there any cashback offer if I pay with a credit card
+4. does it come with a protective sleeve
+5. I like it but I would prefer to check other models first","Customer explored lightweight laptop options, asked about the Asus Zenbook 14's weight, inquired about cashback offers and protective sleeves, and decided to consider other models.
+",Negative,not closed
+Rahul,"1. hello I am looking for a laptop with a vibrant display for video editing
+2. how good is the colour accuracy of the LG gram 16 display
+3. do you have any discounts on accessories like an external monitor
+4. is the screen covered by the warranty for a dead pixels
+5. I need some time to compare it with other brands","Customer explored laptop options for video editing, asked about the LG gram 16's display color accuracy, inquired about discounts on accessories and warranty coverage, and decided to compare with other brands.",Negative,not closed
+Vishal,"1. hi I need a laptop for multitasking could you suggest something with the fast processor
+2. does the HP Envy 360 come with the latest Intel I7 process
+3. can you bundle this with a wireless mouse for free
+4. will it handle heavy software like AutoCAD smoothly
+5. this needs all my needs I will go ahead with it","Customer explored laptop options for multitasking, asked about the HP Envy 360's processor, inquired about bundling a wireless mouse, sought confirmation on handling heavy software, and made a decision to purchase.",Positive,closed
+Ananya,"1. hello I am interested in touch screen laptops do you have any recommendations
+2. what's the screen resolution on the Microsoft Surface laptop 5
+3. are there any trade in offers if I exchange my old laptop
+4. does the stylus come with the laptop or is it separate
+5. this seems great but I will check the style is options first","Customer explored touch screen laptop options, asked about the Microsoft Surface laptop 5's screen resolution, inquired about trade-in offers, sought information about the stylus, and decided to compare style options before making a decision.
+",Positive,closed
+Nitisha,"1. hi I need a laptop with large Storage for my data heavy work
+2. does the assets Swift X come with 1TB SSD option
+3. can you offer a free upgrade to additional storage
+4. is there any cost if I add Ram upgrade later
+5. this fits all my requirements I am buying it now","Customer explored laptop options for data-heavy work, asked about storage features, inquired about free upgrades and additional costs, and ultimately made a purchasing decision.",Positive,closed
+Sarah,"1. I need a laptop for video editing can you recommend something powerful
+2. does the Dell XPS 15 come with an Intel Core i9 process
+3. can I get a discount if I buy the extended warranty with it
+4. will it run Adobe Premiere Pro without lag
+5. this laptop is exactly what I need for my editing work I will bite","Customer explored laptop options for video editing, asked about the Dell XPS 15's processor and compatibility with Adobe Premiere Pro, inquired about discounts for extended warranty, and ultimately made a decision to purchase the laptop.",Positive,closed
+Emma,"1. hello I need a laptop for coding and data analysis
+2. does the Macbook Pro come with the M1 Pro chip
+3. can you throw in a set of Bluetooth headphones
+4. can the laptop handle machine learning models efficiently
+5. the price is higher than I expected for my needs I look for alternatives","Customer explored laptop options for coding and data analysis, asked about MacBook Pro's M1 Pro chip, requested Bluetooth headphones, inquired about machine learning capabilities, and ultimately looked for alternatives due to high price.
+",Negative,not closed
+Lucas,"1. hi I need a laptop for school projects and streaming movies
+2. does the HP Pavilion 15 have the latest Intel I7 processor
+3. can I get free upgrade to 16GB Ram
+4. will this laptop stream movies in 4K smoothly
+5. I am concerned about the display quality I look for a better option","Customer explored laptop options for school projects and streaming, asked about the HP Pavilion 15's processor, inquired about a free RAM upgrade, sought confirmation on 4K streaming capabilities, and expressed concern about display quality to consider alternative options.",Negative,not closed
+Jashmitha,"1. hi I am looking for a laptop for writing research and occasion like game
+2. does the essence Swift 3 come with an Intel I7 processor
+3. can you add a laptop sleep at no extra cost
+4. will this laptop handle light gaming like fortnite
+5. I am looking for something with the higher refresh rate for gaming I'll pass on this","Customer explored laptop options for writing, research, and gaming, asked about the Essence Swift 3's processor, requested a free laptop sleeve, inquired about handling light gaming, and ultimately decided to pass on the current option due to seeking a higher refresh rate.",Negative,not closedAbhi,"I need a laptop for office use with at least 8GB RAM, an SSD of 256GB, and running Windows 10, budget around 50 thousand.",open
